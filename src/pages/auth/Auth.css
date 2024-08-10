@@ -1,0 +1,55 @@
+/* Login.css */
+
+.login-container {
+    height: 100vh;
+    background: linear-gradient(to right, #17a2b8, #28a745);
+  }
+  
+  .login-card {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-card .card-header {
+    background-color: transparent;
+    border-bottom: none;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .login-card .btn {
+    background-color: #007bff;
+    border: none;
+  }
+  
+  /* Signup.css */
+
+.signup-container {
+  height: 100vh;
+  background: linear-gradient(to right, #17a2b8, #28a745);
+}
+
+.signup-card {
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.signup-card .card-header {
+  background-color: transparent;
+  border-bottom: none;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.signup-card .btn {
+  background-color: #17a2b8;
+  border: none;
+}
